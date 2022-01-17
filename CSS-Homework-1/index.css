@@ -1,0 +1,43 @@
+a {
+  border-style: solid;
+  border-radius: 1em;
+  margin: 1%;
+  padding-left: 1%;
+  padding-right: 1%;
+}
+
+article {
+  font-size: 40px;
+  font-family: "Neonderthaw", cursive;
+  text-align: center;
+}
+
+body {
+  background-color: bisque;
+}
+
+figure {
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: red;
+}
+
+li {
+  list-style-position: inside;
+}
+
+nav {
+  text-align: center;
+  font-family: "Pacifico", cursive;
+}
+
+p {
+  color: blue;
+}
+
+.videos {
+  text-align: center;
+}
